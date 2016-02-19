@@ -7,4 +7,5 @@ test
 *.jar
 *.war
 *.ear
+*.iml
 
